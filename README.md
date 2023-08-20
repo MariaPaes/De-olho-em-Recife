@@ -1,7 +1,5 @@
 # De Olho Em Recife
 
-[![Assista ao vídeo pitch](https://img.youtube.com/vi/2MaJqilN824/0.jpg)](https://www.youtube.com/watch?v=2MaJqilN824)
-
 https://github.com/MariaPaes/De-olho-em-Recife/assets/96590549/d9b48b4c-d6ef-4fbc-be83-7488cec51c55
 
 
